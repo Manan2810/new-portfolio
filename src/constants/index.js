@@ -7,10 +7,10 @@ export const HERO_CONTENT = `I am a Final Year student at Thapar Institute of En
 
 export const EXPERIENCES = [
   {
-    year: "July 2024 - July 2024",
-    role: "Frontend Developer",
+    year: "July 2024 - August 2024",
+    role: "Frontend Development Intern",
     company: "Suvidha Foundation",
-    description: `I enhanced the organization's website by redesigning its layout for better user experience and accessibility. Implementing responsive design ensured optimal viewing on all devices, while optimizing loading speeds improved performance.The revamped website now offers a seamless, user-friendly interface that effectively engages visitors and supports the organization's goals. `,
+    description: `Developed and designed the homepage and all inner pages of the Suvidha Foundation PhD assistance website using HTML, CSS, and JavaScript. Ensured website responsiveness and user-friendly design to enhance user experience. Collaborated with the team to implement industry best practices in web development and design `,
     technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
   },
   {
@@ -57,7 +57,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "F8/11, Model Town ,New Delhi ",
   phoneNo: "+91 9871999932 ",
   email: "mananmehra330@gmail.com",
 };

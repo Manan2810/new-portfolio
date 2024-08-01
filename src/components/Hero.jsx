@@ -13,7 +13,7 @@ const container = (delay)=>({
 
 const Hero = () => {
   function downloadResume() {
-    const resumeUrl = "/Manan_Mehra_Resume.pdf"
+    const resumeUrl = "/Manan_SWE_Resume.pdf"
     const downloadLink = document.createElement('a');
     downloadLink.href = resumeUrl;
     downloadLink.download = 'manan-resume.pdf';
