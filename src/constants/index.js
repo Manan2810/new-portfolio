@@ -7,6 +7,20 @@ export const HERO_CONTENT = `I am a Final Year student at Thapar Institute of En
 
 export const EXPERIENCES = [
   {
+    year: "July 2025 - Present",
+    role: "Business Technology Solution Associate",
+    company: "ZS Associates",
+    description: `Working on the integration workstream for pharmaceutical client projects, focusing on building scalable ETL pipelines and data workflows to support ZAIDYN platform integration. Responsible for designing and maintaining data ingestion, transformation, and load processes using AWS Glue, S3, and Apache Airflow.`,
+    technologies: ["AWS Glue", "AWS S3", "Apache Airflow", "Python", "ETL", "ZAIDYN"]
+  },
+  {
+    year: "January 2025 - June 2025",
+    role: "Business Technology Solution Associate Intern",
+    company: "ZS Associates",
+    description: `Worked on a ZAIDYN platform implementation project for a pharmaceutical client, configuring Alignment and Roster modules. Performed data analysis to uncover insights from client data and developed ETL workflows using AWS Glue, S3, and Apache Airflow. Executed the implementation in three structured phases: Staging, UAT, and Production.`,
+    technologies: ["AWS Glue", "AWS S3", "Apache Airflow", "Python", "ZAIDYN", "ETL", "Data Analysis"]
+  },
+  {
     year: "July 2024 - August 2024",
     role: "Frontend Development Intern",
     company: "Suvidha Foundation",
@@ -58,5 +72,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   phoneNo: "+91 9871999932 ",
-  email: "mananmehra330@gmail.com",
+  email: "mananmehra2810@gmail.com",
 };

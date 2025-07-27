@@ -1,5 +1,5 @@
 import {HERO_CONTENT} from "../constants"
-import profilePic from "../assets/MYPIC.jpg"
+import profilePic from "../assets/NewPicManan.jpeg"
 import {motion} from "framer-motion";
 
 const container = (delay)=>({
@@ -13,7 +13,7 @@ const container = (delay)=>({
 
 const Hero = () => {
   function downloadResume() {
-    const resumeUrl = "/Manan_SWE_Resume.pdf"
+    const resumeUrl = "/Manan_Latest_Resume.pdf"
     const downloadLink = document.createElement('a');
     downloadLink.href = resumeUrl;
     downloadLink.download = 'manan-resume.pdf';
